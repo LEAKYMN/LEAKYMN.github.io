@@ -20,7 +20,5 @@ Contact:
 =======================================================================
 Web: http://www.dynamosolutions.co.ke
 Email:http://www.dynamosolutions.co.ke 
-Twitter: @3rdwave_themes
-
-License: 
+Twitter: https://twitter.com/leakyn 
 =======================================================================
